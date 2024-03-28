@@ -1,0 +1,13 @@
+D:\3307\20240328\C#\240328_2\240328_2\bin\Debug\240328_2.exe.config
+D:\3307\20240328\C#\240328_2\240328_2\bin\Debug\240328_2.exe
+D:\3307\20240328\C#\240328_2\240328_2\bin\Debug\240328_2.pdb
+D:\3307\20240328\C#\240328_2\240328_2\bin\Debug\NModbus4.dll
+D:\3307\20240328\C#\240328_2\240328_2\bin\Debug\NModbus4.xml
+D:\3307\20240328\C#\240328_2\240328_2\obj\Debug\240328_2.csproj.AssemblyReference.cache
+D:\3307\20240328\C#\240328_2\240328_2\obj\Debug\_240328_2.Form1.resources
+D:\3307\20240328\C#\240328_2\240328_2\obj\Debug\_240328_2.Properties.Resources.resources
+D:\3307\20240328\C#\240328_2\240328_2\obj\Debug\240328_2.csproj.GenerateResource.cache
+D:\3307\20240328\C#\240328_2\240328_2\obj\Debug\240328_2.csproj.CoreCompileInputs.cache
+D:\3307\20240328\C#\240328_2\240328_2\obj\Debug\240328_2.csproj.Up2Date
+D:\3307\20240328\C#\240328_2\240328_2\obj\Debug\240328_2.exe
+D:\3307\20240328\C#\240328_2\240328_2\obj\Debug\240328_2.pdb
